@@ -4,6 +4,8 @@
 * Know the customer behavior and recommend the steps to retain existing customers and build the model to know which existing customers may leave.
 1. Recommend the steps to retain existing telecom customers.
 2. Build customer churn, prediction model.
+#Dataset Link
+Link: data.world/bob-wakefield/call-center-data
 
 1. Imports Libraries
 2. Data Info 
