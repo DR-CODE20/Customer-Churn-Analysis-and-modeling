@@ -27,10 +27,10 @@ The public dataset was used for this analysis and was gotten from data.world web
 Link: data.world/bob-wakefield/call-center-data
 size: 1.32Mb
 
-**DESCRIPTION**
+# DESCRIPTION
 * Anonymized Telecom Customer Data
 
-**SUMMARY**
+# SUMMARY
 * This dataset contains information about the customers of a telecom. While there are a number of analysis you can perform with this dataset, it does include rather or not the customer churned so it is useful to lear how to do customer churn.
 
 
