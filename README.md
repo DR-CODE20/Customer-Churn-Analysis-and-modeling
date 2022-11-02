@@ -4,9 +4,8 @@
 * Know the customer behavior and recommend the steps to retain existing customers and build the model to know which existing customers may leave.
 1. Recommend the steps to retain existing telecom customers.
 2. Build customer churn, prediction model.
-#Dataset Link
-Link: data.world/bob-wakefield/call-center-data
 
+# Analysis Procedure
 1. Imports Libraries
 2. Data Info 
 3. Customer Analysis
@@ -23,6 +22,10 @@ Link: data.world/bob-wakefield/call-center-data
 5. Evaluation AUC ROC Curve for all models 
 6. Conclusion
 
+# Dataset Link
+The public dataset was used for this analysis and was gotten from data.world website, created by Bob-Wakefield
+Link: data.world/bob-wakefield/call-center-data
+size: 1.32Mb
 
 **DESCRIPTION**
 * Anonymized Telecom Customer Data
@@ -31,7 +34,7 @@ Link: data.world/bob-wakefield/call-center-data
 * This dataset contains information about the customers of a telecom. While there are a number of analysis you can perform with this dataset, it does include rather or not the customer churned so it is useful to lear how to do customer churn.
 
 
-
+# Data Dictionary
 | Column | Feature Type | Description |
 | :---- | ---- | ---- |
 | recordid | integer | Primary key of the record |
