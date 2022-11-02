@@ -24,8 +24,9 @@
 
 # Dataset Link
 The public dataset was used for this analysis and was gotten from data.world website, created by Bob-Wakefield
-Link: data.world/bob-wakefield/call-center-data
-size: 1.32Mb
+* Link: data.world/bob-wakefield/call-center-data
+* size: 1.32Mb
+* Format: CSV
 
 # DESCRIPTION
 * Anonymized Telecom Customer Data
