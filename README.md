@@ -1,9 +1,9 @@
 # Customer-Churn-Analysis-and-modeling
 # Problem Statement: 
-* Recommend the steps to retain existing telecom customers. In the industry retaining customers is going challenging day by day and acquire new customers is even draining so retaining the existing customers is highly worths every effort than acquiring new customers.
-* Know the customer behavior and recommend the steps to retain existing customers and build the model to know which existing customers may leave.
-1. Recommend the steps to retain existing telecom customers.
-2. Build customer churn, prediction model.
+* Recommend the steps to retain existing telecom customers. In the industry retaining customers is becoming a big challenge on a day by day cases and acquiring new customers is even draining, hence so retaining the existing customers is highly paramount than acquiring new customers.
+* Know the customer's behavior and recommend the steps to retain existing customers and build a model to predicts the possibility that an existing customers may leave.
+    1. Recommend the steps to retain existing telecom customers.
+    2. Build customer churn, prediction model.
 
 # Analysis Procedure
 1. Imports Libraries
